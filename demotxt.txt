@@ -1,0 +1,2 @@
+~$ refer to home directory 
+~$ . go to one folder back 
